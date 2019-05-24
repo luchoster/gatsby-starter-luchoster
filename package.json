@@ -1,0 +1,42 @@
+{
+  "name": "site",
+  "version": "0.0.1",
+  "author": "luchoster <im@luchoster.dev> (@luchoster)",
+  "description": "Site built with the luchoster theme",
+  "main": "gatsby-config.js",
+  "license": "MIT",
+  "private": true,
+  "peerDependencies": {
+    "gatsby": "^2.7.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "gatsby": "^2.7.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.0.0",
+    "animate.css": "^3.7.0",
+    "gatsby": "^2.7.1",
+    "gatsby-plugin-compile-es6-packages": "^1.1.0",
+    "gatsby-plugin-material-ui": "^2.0.0-beta.2",
+    "gatsby-plugin-offline": "^2.1.1",
+    "gatsby-plugin-page-creator": "^2.0.13",
+    "gatsby-plugin-react-helmet": "^3.0.12",
+    "gatsby-plugin-sass": "^2.0.11",
+    "gatsby-theme-luchoster-base": "*",
+    "node-sass": "^4.12.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  }
+}
