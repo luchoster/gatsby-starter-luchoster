@@ -4,8 +4,7 @@ module.exports = {
     description: `Simple Gatsby theme with scss and material-ui support`,
     author: `@luchoster`,
   },
-  plugins: [],
-  __experimentalThemes: [
+  plugins: [
     {
       resolve: 'gatsby-theme-luchoster-base',
     },

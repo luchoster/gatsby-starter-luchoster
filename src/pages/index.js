@@ -6,8 +6,8 @@ import SEO from '../components/SEO'
 export default () => (
   <Layout>
     <SEO />
-    <div className="container content">
-      <h1 className="text--center animated fadeIn">Hello World!</h1>
+    <div className="container">
+      <h1 className="text--center animated fadeIn">World!</h1>
     </div>
   </Layout>
 )
