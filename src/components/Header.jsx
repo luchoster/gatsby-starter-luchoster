@@ -10,7 +10,6 @@ import MenuIcon from '@material-ui/icons/Menu'
 
 export default () => (
   <header className="header">
-    <AppBar />
     <AppBar position="static">
       <Toolbar>
         <IconButton edge="start" color="inherit" aria-label="menu">
