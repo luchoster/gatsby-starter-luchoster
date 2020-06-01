@@ -1,6 +1,6 @@
 {
   "name": "starter",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "author": "luchoster <im@luchoster.dev> (@luchoster)",
   "description": "Gatsby starter (blank) with the Luchoster theme",
   "main": "gatsby-config.js",
