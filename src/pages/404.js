@@ -7,17 +7,18 @@ const NotFoundPage = () => {
     <Layout>
       <SEO title="404: Not found" />
       <main>
-        <h1>Not Found</h1>
-        <iframe
-          title="four oh four"
-          width="560"
-          height="315"
-          src="https://www.youtube.com/embed/6IJB0aD8gSA"
-          frameborder="0"
-          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          allowFullscreen
-        />
-        <p>Too doo doo doo doo doo doo doo</p>
+        <div className="container text--center">
+          <h1>Not Found</h1>
+          <iframe
+            title="four oh four"
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+            frameborder="0"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowFullscreen
+          />
+        </div>
       </main>
     </Layout>
   )

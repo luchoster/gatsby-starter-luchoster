@@ -1,7 +1,6 @@
 import React from 'react'
 import {
   AppBar,
-  Button,
   IconButton,
   Typography,
   Toolbar,
@@ -21,7 +20,7 @@ export default () => (
       </Toolbar>
     </AppBar>
     <img
-      src="https://luchoster.dev/icons/icon-256x256.png"
+      src="https://lucho.dev/icons/icon-256x256.png"
       alt="Luchoster's logo"
       className="logo"
     />

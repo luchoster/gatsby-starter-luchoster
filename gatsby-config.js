@@ -8,5 +8,11 @@ module.exports = {
     {
       resolve: 'gatsby-theme-luchoster-base',
     },
+    {
+      resolve: `gatsby-plugin-typography`,
+      options: {
+        pathToConfigModule: `src/utils/typography`,
+      },
+    },
   ],
 }

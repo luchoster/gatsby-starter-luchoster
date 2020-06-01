@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://luchoster.dev/">
-    <img alt="Luchoster" src="https://luchoster.dev/icons/icon-192x192.png" />
+  <a href="https://lucho.dev/">
+    <img alt="Luchoster logo" src="https://lucho.dev/icons/icon-192x192.png" />
   </a>
 </p>
 <h1 align="center">
@@ -15,6 +15,7 @@ Stack and libs:
 * Animate.css
 * Material-ui
 * SASS (SCSS) support
+* Typography.js
 
 ## 💫 Deploy
 
